@@ -1,0 +1,15 @@
+.thumb-image-container {
+  margin-right: 10px;
+}
+.thumb-image-btn {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+.thumb-image {
+  opacity: 0.5;
+}
+.active-thumb-image {
+  opacity: 1;
+}
